@@ -1,0 +1,6 @@
+Frequency 
+5
+10
+Duration 
+10
+10
